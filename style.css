@@ -1,0 +1,260 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container-1{
+    width:95%;
+    margin:auto;
+}
+.container{
+    width:70%;
+    margin:auto;
+}
+.c-somal-banar {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #938282;
+    margin-top:15px;
+}
+.c-title {
+    font-size: 28px;
+    font-weight: normal;
+    margin: 15px 0px;
+}
+.c-paragrap {
+    font-size: 16px;
+    color: #858282;
+    margin-bottom:40px;
+}
+
+
+
+
+/* Header section stared */
+#my-header {
+    padding: 12px 0px;
+}
+#my-header .header-content{
+    overflow:hidden;
+}
+#my-header .header-content .logo-box {
+    width: 20%;
+    float: left;
+}
+#my-header .header-content .logo-box h1 {
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 8px;
+    line-height:61px;
+}
+#my-header .header-menu {
+    width: 79%;
+    float: right;
+}
+#my-header .header-menu ul {
+    text-align: right;
+    list-style: none;
+}
+#my-header .header-menu ul li {
+    display: inline-block;
+    margin-left: 148px;
+    line-height: 61px;
+}
+#my-header .header-menu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 17px;
+    color: #8d8d8d;
+}
+
+/* Header section end */
+
+
+
+
+
+
+/* Home section start */
+#home-section{
+    height:100vh;
+    width:100%;
+    background-image:url('home.jpg');
+    background-size:cover;
+    background-position:center;
+}
+/* Home section end */
+
+
+
+
+
+
+
+
+/* Title section start */
+#title-section{
+    margin-top:65px;
+}
+/* Title section end */
+
+
+
+
+
+
+
+
+
+/* lifestyle section start */
+#lifestyle-section .row{
+    overflow:hidden;
+}
+#lifestyle-section .row .card {
+    width: 447px;
+    margin-top:100px;
+    float:left;
+}
+#lifestyle-section .row .card img{
+    width:447px;
+}
+#lifestyle-section .row .card:nth-child(even){
+    float:right;
+}
+#lifestyle-section .container .life-btn{
+    margin-top:680px;
+}
+#lifestyle-section .container .btn {
+    width: 100px;
+    height: 37px;
+    margin: auto;
+    display: block;
+    color: gray;
+    border: 1px solid gray;
+    margin-top:150px;
+    cursor: pointer;
+}
+/* lifestyle section end */
+
+
+
+
+
+
+
+
+
+/* Sing up section start  */
+#singup-section{
+    margin-top:100px;
+    padding:80px 0px;
+    background-color: #ebebeb;
+}
+#singup-section .singup-content {
+    width: 286px;
+    margin: auto;
+    border-bottom:1px solid #111;
+}
+#singup-section .singup-content h1 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: normal;
+}
+#singup-section .singup-content form{
+    text-align:center;
+    margin-top:40px;
+}
+#singup-section .singup-content form input {
+    border: none;
+    outline: none;
+    height: 22px;
+    width: 248px;
+    display: inline-block;
+    background: transparent;
+}
+#singup-section .singup-content form button {
+    font-size: 17px;
+    width: 32px;
+    border:none;
+    outline:none;
+    background: transparent;
+    color:gray;
+    cursor: pointer;
+}
+/* Sing up section start  */
+
+
+
+
+
+/* Footer section start */
+#my-footer {
+    background-color: #ebebeb;
+    margin-top: 150px;
+    padding: 25px 0px;
+}
+#my-footer .row{
+    overflow:hidden;
+}
+#my-footer .row .left-content{
+    width:50%;
+    float:left;
+}
+#my-footer .row .left-content h1 {
+    font-weight: normal;
+    font-size: 18px;
+    word-spacing: -1px;
+}
+#my-footer .row .left-content h1 span {
+    margin-left: 18px;
+}
+
+#my-footer .row .right-content{
+    width:50%;
+    float:right;
+}
+#my-footer .row .right-content ul{
+    text-align:right;
+    list-style:none;
+
+}
+#my-footer .row .right-content ul li{
+    display:inline-block;
+}
+#my-footer .row .right-content ul .title{
+    margin-right:15px;
+}
+#my-footer .row .right-content ul li a{
+    text-decoration:none;
+    margin:0px 6px;
+    color:#111;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
